@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/contact-app/static/css/main.e50186f9.css",
+    "main.js": "/contact-app/static/js/main.b5585081.js",
+    "static/media/plane.png": "/contact-app/static/media/plane.3153aecb9704b06dd887.png",
+    "static/media/instagram-icon.svg": "/contact-app/static/media/instagram-icon.e378f95664e083bf0cb7a93d5960a273.svg",
+    "static/media/discord-icon.svg": "/contact-app/static/media/discord-icon.0de101502921c5613811482b3d6cc9e6.svg",
+    "static/media/twitter-icon.svg": "/contact-app/static/media/twitter-icon.65c07fe860a65410618c22f42478bc39.svg",
+    "static/media/phone-icon.svg": "/contact-app/static/media/phone-icon.a1f0b1fd905e8383d0852ce7c1fcb07e.svg",
+    "static/media/location-icon.svg": "/contact-app/static/media/location-icon.6af55f03e4694d09f4b4b1db64096530.svg",
+    "index.html": "/contact-app/index.html",
+    "static/media/nav-arrow-icon.svg": "/contact-app/static/media/nav-arrow-icon.efcdb49e07a6776283e4.svg",
+    "static/media/burger-icon.svg": "/contact-app/static/media/burger-icon.5590051d6c070bcc602be064ab0ebd3a.svg",
+    "static/media/menu-circle.svg": "/contact-app/static/media/menu-circle.8ee16ecec611135820a7d57256358a6a.svg",
+    "static/media/close-burger-icon.svg": "/contact-app/static/media/close-burger-icon.37436e97d49ad03cd01bfdc6d7837001.svg",
+    "static/media/mail-icon.svg": "/contact-app/static/media/mail-icon.f514563282280a4efd9e2f5ad96038f8.svg",
+    "main.e50186f9.css.map": "/contact-app/static/css/main.e50186f9.css.map",
+    "main.b5585081.js.map": "/contact-app/static/js/main.b5585081.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e50186f9.css",
+    "static/js/main.b5585081.js"
+  ]
+}
